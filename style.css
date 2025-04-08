@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body, h1 {
+  margin: 0;
+}
+
+header {
+  background-color: pink;
+}
+header h1, main {
+  width: 80%;
+  margin: 0 auto;
+}
+.content {
+  margin: 20px 0;
+}
+
+footer {
+  background-color: pink;
+  position: fixed;
+  bottom: 0;
+  width: 100%; 
+  text-align: center;
+}
